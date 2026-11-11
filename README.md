@@ -32,11 +32,11 @@ exe 未做代码签名，SmartScreen 可能提示「未知发布者」，点「�
 
 | 主界面 | 选择节点 |
 |---|---|
-| ![主界面](docs/screenshots/01-主界面.png) | ![选择节点](docs/screenshots/02-选择节点.png) |
+| ![主界面](docs/screenshots/01-main.png) | ![选择节点](docs/screenshots/02-peer-picker.png) |
 
 | 吞吐测速 | 关于 |
 |---|---|
-| ![吞吐测速](docs/screenshots/03-吞吐测速.png) | ![关于](docs/screenshots/04-关于.png) |
+| ![吞吐测速](docs/screenshots/03-speedtest.png) | ![关于](docs/screenshots/04-about.png) |
 
 截图里出现的节点 ID、虚拟 IP、出口归属地与性能数字**全部是示例数据**，不是任何真实环境。
 
